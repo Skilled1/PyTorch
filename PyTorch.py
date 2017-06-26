@@ -1,3 +1,5 @@
+## Basic gradient descent in PyTorch.
+
 import torch
 from torch.autograd import Variable
 import numpy as np
